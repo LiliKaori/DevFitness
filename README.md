@@ -10,4 +10,4 @@
   
   A aplicação é responsiva que se adapta a diferentes tamanhos de telas. Ao clicar no botão, aparece um formulário a ser preenchido, onde é exigido o preenchimento de todos os campos do formulário.</p>
   
-  <img src="./devFtness-display.gif" alt="frame-do-site">
+  <img src="./devFitness-display.gif" alt="frame-do-site" />
